@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I moved my account over to [SeikaHirori](https://github.com/seikahirori)
+  - https://github.com/seikahirori
+
 <!--
 **WaToArt/WaToArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
