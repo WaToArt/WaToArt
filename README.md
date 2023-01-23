@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I migrated!
 
 I moved my account over to [SeikaHirori](https://github.com/seikahirori)
   - https://github.com/seikahirori
